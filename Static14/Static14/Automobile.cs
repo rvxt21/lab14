@@ -13,8 +13,8 @@ namespace Static14
     class Automobile
     {
         private static int NumberOfWheels = 4;
-        public string model { get { return model; } set { model = value; } }
-        public int number { get { return number; } set { number = value; } }
+        public string model;
+        public int number;
         public Automobile(string model,int number)
         {
             this.model = model;
@@ -27,7 +27,20 @@ namespace Static14
             set { NumberOfWheels = value; }
         }
 
-        
+        public void GetInfo()
+        {
+            Console.WriteLine($"Model: {model} number: {number}");
+        }
+        public string Model
+        {
+            get { return model; }
+             set { model = value; } 
+        }
+        public int Number
+        {
+            get { return number; } 
+           set { number = value; } 
+        }
         public static int SizeOfGasTank
         {
             get

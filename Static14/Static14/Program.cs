@@ -6,7 +6,7 @@ namespace Static14
     {
         static void Main(string[] args)
         {
-            Automobile a = new Automobile("bmw");
+            Automobile a = new Automobile("bmw",123);
             a.GetInfo();
 
             Console.ReadLine();
