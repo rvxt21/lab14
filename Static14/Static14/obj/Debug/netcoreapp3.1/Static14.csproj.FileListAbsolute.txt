@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\Static14\Static14\bin\Debug\netcoreapp3.1\Static14.exe
+C:\Users\anast\source\repos\Static14\Static14\bin\Debug\netcoreapp3.1\Static14.deps.json
+C:\Users\anast\source\repos\Static14\Static14\bin\Debug\netcoreapp3.1\Static14.runtimeconfig.json
+C:\Users\anast\source\repos\Static14\Static14\bin\Debug\netcoreapp3.1\Static14.runtimeconfig.dev.json
+C:\Users\anast\source\repos\Static14\Static14\bin\Debug\netcoreapp3.1\Static14.dll
+C:\Users\anast\source\repos\Static14\Static14\bin\Debug\netcoreapp3.1\Static14.pdb
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.AssemblyInfo.cs
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.dll
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.pdb
+C:\Users\anast\source\repos\Static14\Static14\obj\Debug\netcoreapp3.1\Static14.genruntimeconfig.cache
